@@ -7,15 +7,13 @@
     <link href="http://www.zotero.org/styles/apa" rel="template"/>
     <link href="http://www.example.com/style-guide/" rel="documentation"/>
     <author>
-      <name>John Doe</name>
-      <email>JohnDoe@example.com</email>
+      <name>Julien Rabaud</name>
+      <email>julien.rabaud@college-de-france.fr	</email>
     </author>
-    <contributor>
-      <name>Jane Doe</name>
-    </contributor>
-    <contributor>
-      <name>Bill Johnson</name>
-    </contributor>
+    <author>
+      <name>Silvan Giraud</name>
+      <email>silvan.giraud@college-de-france.fr </email>
+    </author>
     <category citation-format="author-date"/>
     <category field="science">
     <updated>2014-10-15T18:17:09+00:00</updated>
