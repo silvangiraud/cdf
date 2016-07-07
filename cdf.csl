@@ -39,10 +39,8 @@
     		<names variable="author">
       			<name name-as-sort-order="all" form="long" delimiter=", " delimiter-precedes-last="always" sort-separator=" "/>
       			<substitute>
-        			<text macro="title"/>
         			<names variable="editor"/>
         			<names variable="translator"/>
-        			<text macro="publication-title"/>
       			</substitute>
  		</names>
   	</macro>
@@ -66,7 +64,7 @@
 			<key variable="genre"/>
 			<key variable="issued"/>
 		</sort>
-		<layout>
+		<layout suffix=".">
 			<group delimiter=", ">
 				<text macro="author"/>
 				<text macro="issued-year"/>
